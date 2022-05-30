@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating stuff with code.
 - 🌱 I’m currently learning Python and Web Development.
 - 💞️ I’m looking to collaborate on Projects that require my python skills.
-- 📫 Reach me at my linkedin account : https://www.linkedin.com/in/aditya-dahake-735b4a201
+- 📫 Reach me at my linkedin account : [Aditya Dahake](https://www.linkedin.com/in/adityadahake/)
 
 <!---
 dahakeadi15/dahakeadi15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
